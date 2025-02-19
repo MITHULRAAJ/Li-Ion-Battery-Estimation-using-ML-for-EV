@@ -1,7 +1,7 @@
 # A Comprehensive Exploration of Machine Learning Techniques for EV Battery SoC Estimation
 
 ## Description
-This project presents a thorough investigation of various machine learning models applied to the **State of Charge (SoC)** estimation for Lithium-ion batteries under different operating conditions. By leveraging algorithms like **Random Forest (RF)**, **Decision Tree (DT)**, **Support Vector Regression (SVR)**, **Gradient Boosting**, **Polynomial Regression**, and **Multilayer Perceptron (ANN)**, the work achieves **high accuracy** (up to 99.9%) and **low Mean Absolute Error (1.21%)** in predicting SoC. Extensive experiments were conducted on two real-world datasets—**LG Battery** and **Unibo Powertools Battery**—along with K-fold cross validation and Grid Search for hyperparameter tuning.
+This project presents a thorough investigation of various machine learning models applied to the **State of Charge (SoC)** estimation for Lithium-ion batteries under different operating conditions. By leveraging algorithms like **Random Forest (RF)**, **Decision Tree (DT)**, **Support Vector Regression (SVR)**, **Gradient Boosting**, **Polynomial Regression**, and **Multilayer Perceptron (ANN)**, the work achieves **high accuracy** (up to 99.9%) and **low Mean Absolute Error (1.21%)** in predicting SoC. Extensive experiments were conducted on two real-world datasets, **LG Battery** and **Unibo Powertools Battery** along with K-fold cross validation and Grid Search for hyperparameter tuning.
 
 ## Key Features
 - **Robust SoC Estimation**  
@@ -27,6 +27,6 @@ This project presents a thorough investigation of various machine learning model
 
 ## Publication and Presentation
 - **58th International UPEC 2023, Ireland**  
-  Paper presented at the conference, illustrating the comparative performance of ML models for SoC estimation.  
+  Paper presented at the IEEE PES conference, illustrating the comparative performance of ML models for SoC estimation.  
   [IEEE Xplore Link](https://ieeexplore.ieee.org/document/10294352)
 
